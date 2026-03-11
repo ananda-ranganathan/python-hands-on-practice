@@ -1,0 +1,7 @@
+Creating Environment : 
+ipykernal 
+
+Modules and Packages :
+numpy (array package)
+pandas (dataframe and series)
+
